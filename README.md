@@ -1,4 +1,4 @@
-# Listopia # #task
+# Listopia #task
 listopia is a very simple app where user can make lists of his favourite books, view and download books in pdf format.
 
 user can aslo import books from a general list-I just made one for example sake-
