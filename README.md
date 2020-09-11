@@ -1,4 +1,4 @@
-# Listopia
+# Listopia # #task
 listopia is a very simple app where user can make lists of his favourite books, view and download books in pdf format.
 
 user can aslo import books from a general list-I just made one for example sake-
@@ -42,7 +42,7 @@ Json Structure
 ]
 ```
 
-# Fetchin Data
+# Fetching Data
 I use cURL to fetch data using the api provided by [JSONbin.IO](https://jsonbin.io)
 # Books
 I uploaded a few examples so that the download link will work correctly
